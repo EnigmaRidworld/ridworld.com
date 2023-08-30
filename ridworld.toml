@@ -1,0 +1,699 @@
+# Example https://ridworld.com/.well-known/xrp-ledger.toml file. 
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+[[ACCOUNTS]]
+address = ""
+network = "main"
+desc = "Ridworld NFT Card"
+
+
+rwXtered5xDwifU1LDAEira2zQVN57gTBG
+r4WACvo5MF4F67WNYgVbrBRBxUbvYQo3t5
+rpeUegPQ7phkPDt3i6LaMcHd27jnPpJoPJ
+rMAThnVnax3WcXLuYZ94ZtpNtiCvL4SQYZ
+rfBjAa63uJic3Xyz3tPnZwH93qj2ftL7w5
+rpjufc2JYgWZiQeJHoNhzBzRmEQ1JbqzmV
+rPNYYKaDw4R1rwDs579S37wFZ18aNxT9wW
+r9s4EQeCDg3dDnC2qVcdwisYnkQkWppAne
+rn8ZodJs2LpHkZVg2QFd2BT7i9ZfUhF5sd
+rwkACvvYqhHGFvJicCPXJju9oW1sYmwVcL
+rLVuEP27kZ8WzJC5N6xtygspG4GgmMJ3qk
+rJrxMyDFJX1BWkuobT2VCTdhkAGJxYd8Pw
+rnKg6vS9iFS5T2CbCVRnMLBU41yKVZH2hz
+rDYwhBym9p1Ds7xKhj1xhLNJMGYHMdbcw8
+rsLVeC3HQhz7z8KNvRfTG42Tfp4JnMEwMG
+r3h24pJzo6ed3WMsYVRX7kU9pDWkxuCygr
+rLfPYWnYrqWUHz1N7mtrBzoRkrdMPPLHHX
+rwfcm3F2xxfjAdizUU2R3ddFH4KasAecgv
+rHKPVGYVpWminFDbbfKFzG6LmdYYjYP9fB
+rDQHs2X7nQGFCx2Jd2XiKn6Zavebz76TT4
+r456WbTdQLkDnrvHGUmY7PcULAAX3upCPV
+rEG5DvJP2q9TrQZpYaijs6NP9PhWdr9brV
+rHSLoFTELgAwpMzFM8sZq6pdWeEWxiSdQQ
+rBGYPSiM5wmvbjHL9nMvfjEJWWRv2ZAkRs
+rUtjuVgKzDQFJcAZgeX4NC6UE9jfYRGR4u
+rUAF7WhpZd7QTkBbqZSECUos1eCpBDwv3w
+rGw4ryUroPK7xrMyYkc7DKe4cjiuAseNfb
+rsVH14CjsFgBsoZMxzs2swmP5HxewdNddB
+rESq3xxje1rQxX3Ss3LEjbXq4GRTS949o3
+rsrsg86KCnqESPdzV2swuqwXXNyCNqjR1x
+rnEHGwHsCegzorExTgG35t8isdPbVd7862
+r4BYNXdS6cGk4NhkhHU6Dke63bJzNgqLYN
+rpeGpMRhWQ9cKHRQba8WeN3buhnJbZXbs5
+rwrbkqPAJEZoDr844xxTFv72P935p9nk8c
+rNj9YerzfFw8B4cZFqg2HDU8EhKzEq2agV
+rsqx4NFdmpv71wq5BQmnvZ6Mqk9fiQa3D1
+rapMUL11cnMqa3hiYp9XS5LieVNYsVWCbE
+r9ewmx6W7an3Hi41n8JYhSVbfiS7zph7w3
+rfbziFZkupKshiYGt4UnhYCG8E8wiGQetd
+rdJYeZFWLojf52hugAXh2DN5ALcdPUwKE
+rKhsWYAVuxhXNwAtwpj6Bpa8jfucUSZw6T
+r4QS1ShbV4YFZUFrVU5gngZWFuyUAncGpM
+rpsYZbPj4M9JM7GzEz56erRTuMhVgt2JiG
+rE73xmMeKmQiTs99qgn3PsDBc8DeQqE3Gx
+rDp7T9kfLUVksZUrDhxcsK3wDQcnmYriJS
+rKFar4TmpiT5fEiL2fv84UbSY5Vv6umkhP
+rM296NisYjypgCCJvL4YyBJjx4JygLDi2k
+r488rhYNsHUGyzsqpZrELcWLz6CSXhwSca
+raigwQ2uSx2nTZFyCQHR6XFWjR9FJw7goe
+rfzFsapZH4L4ybUpk1qwCzmf93ZsBnh3UC
+r957yeMPXNqJz2Ne2E5v7mTb3Z5vv4SKKM
+rwRDExhxSKBriXgvyDvWH8K9qKb3pfX9pn
+rLP87gQbzJUGesjgwMkSJ42WLp7Ty76ckr
+rstLJ9AHiedXTeoTwn4cD7a6nSxQwkonUB
+rD7vmJnFxWCoooPQa3KUfpT6u6gRd8FbKJ
+r95gi24S3FK7vkV6keu2CKfocCbdyCskZ9
+rJCtVSQ6vmmdfy33W583zhzcFqrVzn5Z1d
+rMWunTj1oGj6GJJc2X4BihVTeTacTEyLTa
+rsVYAtkWxKTFifLKcc2D76eNVB4ArU4Shg
+rGn4fsB5KU3xZ3VDB88aK9w265nru6bNwQ
+rHuCdCw3bqtAxVebc17QJ45wnEkGhAx5YL
+rdYLywuQkF2mB4K3msgtmZWZoVTqJYEw3
+rpyj1JSJvBKoTsyP6WkcRB3P9NSJaQZQ11
+rh73VvU9dNSLmcypTV128v7w4szSjMAM2o
+rBywuLcQsAZbFKfNZevwDmt8LNatr6dGjj
+rM4JQdPvavuRWSpBxRP7x1U11YuHRooBVF
+rsHkAvX4nDsjbf64zFXLXEcbeiiPYBM8L8
+rBa7KLLKeNXu4XNhH3ptbS87Tmzv56ap8w
+r3ejUsBW3hVYZ2DrcxbrRLtNxxv6iL14UE
+rNq3ef7KdUBGP7snB2YCJ5FwDheaknD1mw
+rnj3qkjqa5tRTwurgHwmgsCG9MExoEvGNg
+rHHTWDyosapZ4yMCf2xTAY1uaw1Dt8KBWq
+rHqhTZ3sScJkLpT8Q46V2FsbHrE1eQwQkP
+rHrfvNRwnxxfDEs2d15umeyFqmMp4TNY3E
+rKv6sjM28hjEnvbNpsdVmAVFrM8ZrSMz6S
+rsd9KB8wy89hxZK7xovrwUBnm3BDM9L36B
+rH57UJYTB1x8PUpxVYFyZGpEFQ6EvNaEBd
+r4GKhqihzzj9dcrkgzTpv9xXiL9bWtTG9P
+rR3T3wbZgXAbph5N8KpM2rX6NoUsmzPqR
+rw6sdKfcorntaQ1SB4LRfKxEeu2e3nNoN3
+rHfUSnEnHMBSXeF27H9q63tLYiUcE49AET
+rEVFpqdoZqGkZmAyNFJ93ScjHG8BtRc5cs
+rwPmmJiSgcBtwv1RYeCfydFLZpn5G8BSj
+rhbLdF8iJ9qm78fi6Lwz9EMCh9MieBNPFg
+rccXvBrc6Tdqc6ZESk9aRd5RpYmc4PbPa
+rHoPhg8txJQyFNzNSwV2BXQQ8e9HPNr3P8
+rfjuiehRwRVe3p6KVQBFNz6ZC9EboFiuRB
+rwSfnjTUrDzRSXk7r5LaEDroKzALbewWfa
+rLCPBeGu2MPkDMFKE4DjWgkANkPeS9RfuJ
+r4VGSC2gAqMHgN4hxf5PtTqGjn5xGG4Y9d
+rNKv9YRvcg9APo3sqrusnSYxG1afXTxwrM
+rHo7EogvYofhVmKz5vEhQUd74DybwL67Py
+rpu5L6Ef35d1nQ1VNsfhFMM2w8Aea9soZv
+rE7Ngd5f3aGC6CTGjLqAaaZnvZjvez1cBq
+r4gFE4tkhNNSW4jwtdVFcoFdeMXEriuYgR
+rp4ahHP1b6ez9pVHBFCjY1ehhwu6z1us9s
+rhzbXUKpPiKEBE9siW5Qu52YZgbYXDwDzS
+rHSMXvBK1TdnHm3eoBXbuthnpT9fcfKwYU
+rBneGziBh2i24bwPjAutSGtjSrb9sk5DjK
+rwtDAR2oGivPeZ3utWVDUhMwv2oAQSJj1M
+rJ8yKZj4JkMA2euJZq4vc5VtA7AYbrjL9K
+r3PHZXHLB5F2dnTNXe9b5f8dqHJsqBd9vS
+rsmzA6HFPumovk6asRTe6ayK54zxtEvMnW
+rUyjCKJAivHhnWEG1A31muwc8FhtYJ8EJ5
+rGazqHbNQx4J7MravYuq3EuaX7iKvzyeut
+rLaTSW1X5nCiWJXrUYAQcDzyGUx1pVVqx
+rhdfjXDuhn6ZrYgzWJP2fGjyTTo5k4ahLM
+rsojYoSWpQFp2SQqy81jJhZRwyjPFovvmw
+rHVyg5sFw62LMvAvZiPhEqBDuXYWGaYe7w
+rBpg2g5ZtAscEqwjebUaRj2cQMoXoFfsi2
+rNyMjk9e4zvPKzpsK5s5qtDMhGjidUue3v
+r49g8ae8665sSG3AFWc4jjg1TiSm2RBdEi
+rKVwZJXf89HMsYGcLFya9g1KqFtxydvPFt 
+
+
+[[PRINCIPALS]]
+name = "Rome Reginelli" # Primary spec author
+email = "rome@example.com" # Not my real email address
+
+
+# End of file
